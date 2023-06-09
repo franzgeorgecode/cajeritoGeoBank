@@ -1,0 +1,175 @@
+
+.factur
+{
+  margin-top: 200px;
+position: relative;
+padding-left: 50px;
+font-family: monospace;
+font-size: 20px;
+color: #2C3035;
+align: center;
+background-color: #D9D9D9;
+  width: 550px;
+
+}
+
+
+.footerp{
+  margin-left: 100px;
+margin-top: 600px;
+position: absolute;
+padding-left: 400px;
+text-align: center;
+top: 491px;
+font-family: monospace;
+font-size: 20px;
+color: #2C3035;
+  align: center;
+}
+
+
+
+
+
+
+body
+{
+  background-color: #D6D6CD;
+}
+h3
+{
+  margin-top: 310px;
+  margin-left: -80px;
+  color: #2C3035;
+  font-family: inherit;
+}
+.texto
+{
+  margin-top: -5px;
+  margin-left: -105px;
+  background-color: #2C3035;
+  height: 50px;
+  width: 250px;
+  color: #D6D6CD;
+  font-size: 50px;
+position: relative;
+text-align: center;
+}
+.Contenidos
+{
+  padding-left: 370px;
+  position: absolute;
+  top: 200px;
+}
+.boton
+{
+  margin-left: -80px;
+  position: absolute;
+  width: 220px;
+  height: 45px;
+  font-family: monospace;
+  color: #D6D6CD;
+  font-size: 18px;
+  font-weight: 900;
+  background-color: #2C3035;
+}
+.display
+{
+  margin-left: -135px;
+    margin-top:180px;
+  position: absolute;
+  padding-left: 400px;
+  text-align: center;
+  top: 491px;
+  font-family: monospace;
+  font-size: 20px;
+  color: #2C3035;
+}
+.display2
+{
+
+    margin-top: 200px;
+  position: absolute;
+  padding-left: 10px;
+  font-family: monospace;
+  font-size: 20px;
+  color: #2C3035;
+  align: center;
+}
+.fondo
+{
+  position: relative;
+  margin: auto;
+  width: 1060px;
+}
+
+.Resetear{
+margin-left: 50px;
+margin-top:970px;
+width: 150px;
+height: 150px;
+position: absolute;}
+
+.reset{
+margin-left: 550px;
+margin-top:20px;
+width: 100px;
+height: 100px;
+position: absolute;
+align: center;
+
+
+}
+
+
+.display3
+{
+
+  margin-left: 550px;
+    margin-top:200px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    align: center;
+    font-family: monospace;
+    font-size: 20px;
+    color: #2C3035;
+
+
+}
+.display4
+{
+margin-left: 180px;
+margin-top:1660px;
+position: absolute;
+padding-left: 400px;
+text-align: center;
+top: 491px;
+font-family: monospace;
+font-size: 20px;
+color: #2C3035;
+}
+.display5
+{
+margin-left: 180px;
+margin-top:1680px;
+position: absolute;
+padding-left: 400px;
+text-align: center;
+top: 491px;
+font-family: monospace;
+font-size: 20px;
+color: #2C3035;
+}
+.display6
+{
+margin-left: 180px;
+margin-top:1700px;
+position: absolute;
+padding-left: 400px;
+text-align: center;
+top: 491px;
+font-family: monospace;
+font-size: 20px;
+color: #2C3035;
+}

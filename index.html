@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+    <link  rel="icon"   href="https://raw.githubusercontent.com/fgmuller/CajeritoGeoBank/master/faviconGeoBank.ico" type="image/png" />
+    <meta charset="utf-8">
+    <title>GeoBank!</title>
+
+  <link rel="stylesheet" href="styles.css">
+
+
+
+  </head>
+  <body>
+
+    <audio src="sonido/tecla.mp3" id="tecla_id"></audio>
+    <audio src="sonido/alerta.mp3" id="alerta_id"></audio>
+    <audio src="sonido/entrega.mp3" id="entrega_id"></audio>
+
+
+
+    <div class="fondo">
+      <img class="fondoImg" src="cajero.gif"></img>
+      <img src="reset.png" onclick="reset()"class="Resetear">
+<img class="fondoImg2" src="combinacion.gif"></img>
+      <div class="Contenidos">
+        <p class= "datos">
+          <h3><strong>Ingrese el monto</strong></h3>
+          <input class="texto" type="text" id="pantalla_texto" autofocus /><br />
+          <br /><input type="button" value="REALIZAR RETIRO" class="boton" id="botonExtraccion" />
+        </p>
+      </div>
+
+      <div class="display">
+        <p id="resultado">
+        </p>
+      </div>
+
+      <div class="display2" >
+        <p id="carga_id">
+
+
+
+          <p class="factur" id = "recibo"></p>
+          
+
+        </p>
+      </div>
+    </div>
+
+<p align="center" class='footerp'>Hecho con 💛 por Geo 2021</p>
+
+
+
+
+
+
+
+
+
+
+<script src = "cajero.js">
+  </script>
+
+  </body>
+</html>
